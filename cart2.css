@@ -163,3 +163,10 @@ body.showCart .container {
 .listCart::-webkit-scrollbar {
     width: 0; /* Correctly hides the scrollbar */
 }
+
+/* TAB screen */
+@media screen and (max-width: 488px) {
+    .listProduct{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
