@@ -164,9 +164,24 @@ body.showCart .container {
     width: 0; /* Correctly hides the scrollbar */
 }
 
-/* TAB screen */
-@media screen and (max-width: 488px) {
+/* Tablet screen */
+@media screen and (max-width: 992px) {
     .listProduct{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Mobile screen - specifically targeting devices like Samsung A31 */
+@media screen and (max-width: 768px) {
+    .listProduct{
+        grid-template-columns: repeat(1, 1fr);
+    }
+   .addCart button {
+        padding: 10px 20px;
+        font-size: 18px;
+        cursor: pointer;
+    }
+}
         grid-template-columns: repeat(3, 1fr);
     }
 }
