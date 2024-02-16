@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Red Pen",
+        "price": 100,
+        "image": "image/red-pen.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Blue Pen",
+        "price": 200,
+        "image": "image/red-pen.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Green Pen",
+        "price": 300,
+        "image": "image/red-pen.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Black Pen",
+        "price": 400,
+        "image": "image/red-pen.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Yellow Pen",
+        "price": 500,
+        "image": "image/red-pen.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Purple Pen",
+        "price": 600,
+        "image": "image/red-pen.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Orange Pen",
+        "price": 700,
+        "image": "image/red-pen.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Pink Pen",
+        "price": 800,
+        "image": "image/red-pen.jpg"
+    }
+]
