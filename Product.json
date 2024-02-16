@@ -3,48 +3,48 @@
         "id": 1,
         "name": "Red Pen",
         "price": 100,
-        "image": "image/red-pen.jpg"
+        "image": "red pen.png"
     },
     {
         "id": 2,
-        "name": "Blue Pen",
+        "name": "Acrylic paint",
         "price": 200,
-        "image": "image/red-pen.jpg"
+        "image": "Acrylic paint.webp"
     },
     {
         "id": 3,
-        "name": "Green Pen",
+        "name": "Canvas",
         "price": 300,
-        "image": "image/red-pen.jpg"
+        "image": "9d31b1f7d27f403d4665942bee5d1efd97a108f4.png"
     },
     {
         "id": 4,
-        "name": "Black Pen",
+        "name": "colors",
         "price": 400,
-        "image": "image/red-pen.jpg"
+        "image": "11c7b6f43e62cb13f681c9554311b84bfe64454a.png"
     },
     {
         "id": 5,
-        "name": "Yellow Pen",
+        "name": "hieghlighter",
         "price": 500,
-        "image": "image/red-pen.jpg"
+        "image": "66-3.webp"
     },
     {
         "id": 6,
-        "name": "Purple Pen",
+        "name": "Neon Paint",
         "price": 600,
-        "image": "image/red-pen.jpg"
+        "image": "cc3dc8a731c960d828092a81d343940a6ed856dd.png"
     },
     {
         "id": 7,
-        "name": "Orange Pen",
+        "name": "Fointain Pen",
         "price": 700,
-        "image": "image/red-pen.jpg"
+        "image": "889061ddcd24757d7868904d2b96c8b598a8c6e5.png"
     },
     {
         "id": 8,
-        "name": "Pink Pen",
+        "name": "Oil Paint",
         "price": 800,
-        "image": "image/red-pen.jpg"
+        "image": "71ZQ058yV2L.jpg"
     }
 ]
